@@ -47,7 +47,7 @@
 
 ## NOTE
 - Don't change/edit variables from Heroku if you want to change/edit do it from Github Secrets
-- If you want to set optional variables, go to your Heroku app settings and add the variables
+- If you want to set optional variables, go to your Heroku app settings and add the variables or you can edit in config.env
 
 ## Credits
 - [arghyac35](https://github.com/arghyac35) for Tutorial
