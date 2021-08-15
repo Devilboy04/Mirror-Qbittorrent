@@ -29,7 +29,7 @@
 
 4. [Setting up config file](https://github.com/breakdowns/slam-mirrorbot#setting-up-config-file)
 - Rename `config_sample.env` to `config.env`
-- Remove the first line saying: `_____REMOVE_THIS_LINE_____=True`
+- Remove the first two lines of the file
 	![Remove Line](https://telegra.ph/file/44202b627479d4f237f7c.jpg)
 
 - Fill Required Config from [Here](https://github.com/breakdowns/slam-mirrorbot/blob/master/config_sample.env) (**NOTE**: You also can fill optional config)
