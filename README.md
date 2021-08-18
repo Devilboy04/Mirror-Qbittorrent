@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/deepakcloudsoffical/Q-Bittorrent-Heroku?color=green&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/deepakcloudsoffical/Q-Bittorrent-Heroku?style=flat)
 ![GitHub watchers](https://img.shields.io/github/watchers/deepakcloudsoffical/Q-Bittorrent-Heroku)
-![Docker Pulls](https://img.shields.io/docker/pulls/deepakcloudsoffical/mega-sdk-python?label=Docker%20Pull)
+//![Docker Pulls](https://img.shields.io/docker/pulls/deepakcloudsoffical/mega-sdk-python?label=Docker%20Pull)
 [![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.dog/cloudsmirror)
 
 **Deepak Clouds Q-Bittorrent-Heroku** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
