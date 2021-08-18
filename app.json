@@ -1,5 +1,5 @@
 {
-    "name": "Deepak Clouds Mirror",
+    "name": "Q-Bittorrent-Heroku",
     "description": "A Telegram bot for all your mirror needs",
     "logo": "https://imagetot.com/images/2021/06/17/d7e86862ce2686f4c6c6596bfa72785d.jpg",
     "keywords": [
@@ -7,7 +7,7 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/deepakcloudsoffical/deepak-clouds-mirror",
+    "repository": "https://github.com/deepakcloudsoffical/Q-Bittorrent-Heroku",
     "website": "https://github.com/blackdeep04/deepak-clouds-mirror",
     "success_url": "https://t.me/cloudsmirror",
     "stack": "container",
