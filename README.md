@@ -1,6 +1,6 @@
 [![Slam](https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg)](https://telegram.dog/cloudsmirror)
 
-# Slam Mirror Bot
+# Deepak Clouds Q-Bittorrent
 ![GitHub Repo stars](https://img.shields.io/github/stars/deepakcloudsoffical/Q-Bittorrent-Heroku?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/deepakcloudsoffical/Q-Bittorrent-Heroku?color=green&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/deepakcloudsoffical/Q-Bittorrent-Heroku?style=flat)
@@ -16,7 +16,7 @@
 
 ## Additional Features
 - qBittorrent supported
-- Updater (**NOTE**: You must upload your **token.pickle** to Index and fill your **token.pickle** url to **TOKEN_PICKLE_URL**, because your **token.pickle** will deleted after update, for more info please check [Setting up config file](https://github.com/breakdowns/slam-mirrorbot/tree/master#setting-up-config-file))
+- Updater (**NOTE**: You must upload your **token.pickle** to Index and fill your **token.pickle** url to **TOKEN_PICKLE_URL**, because your **token.pickle** will deleted after update, for more info please check [Setting up config file](https://github.com/deepakcloudsoffical/Q-Bittorrent-Heroku/tree/master#setting-up-config-file))
 - Limiting size Torrent/Direct, Tar/Unzip, Mega, cloning Google Drive support
 - Stop duplicate cloning Google Drive & mirroring Mega support
 - Tar/Unzip Google Drive link support
@@ -218,7 +218,7 @@ sudo docker run mirrorbot
  <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
     
     
-## Deploying on Heroku with Github Workflow
+//## Deploying on Heroku with Github Workflow
 <p><a href="https://github.com/breakdowns/slam-mirrorbot/blob/master/heroku-guide.md"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Deploying on Heroku with heroku-cli and Goorm IDE
@@ -305,11 +305,7 @@ Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of 
 Thanks to:
 - [out386](https://github.com/out386) heavily inspired from Telegram Bot which is written in JS
 - [Izzy12](https://github.com/lzzy12) for original repo
-- [Dank-del](https://github.com/Dank-del) for base repo
-- [magneto261290](https://github.com/magneto261290) for some features
-- [SVR666](https://github.com/SVR666) for some features & fixes
-- [anasty17](https://github.com/anasty17) for some features & help
 - [breakdowns](https://github.com/breakdowns) for slam-tg-mirror-bot
-- [zevtyardt](https://github.com/zevtyardt) for some direct links
+-
 
-And many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/breakdowns/slam-mirrorbot/graphs/contributors).
+And many more people who aren't mentioned here.
