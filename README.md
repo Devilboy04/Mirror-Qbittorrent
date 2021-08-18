@@ -68,7 +68,7 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 ```
 
 </details>
-    <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+  
 
 
 # How to deploy?
@@ -214,7 +214,10 @@ docker build . --rm --force-rm --compress --no-cache=true --pull --file Dockerfi
 ```
 sudo docker run mirrorbot
 ```
-
+## Deploying directly on Heroku
+ <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+    
+    
 ## Deploying on Heroku with Github Workflow
 <p><a href="https://github.com/breakdowns/slam-mirrorbot/blob/master/heroku-guide.md"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
